@@ -1,0 +1,24 @@
+{
+  "name": "simple-scrollbar",
+  "description": "Very simple vanilla javascript library for creating a custom scrollbar cross-browser and cross-devices.",
+  "main": "simple-scrollbar.js",
+  "authors": [
+    "Vitor Buzinaro"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "scrollbar",
+    "custom-scrollbar",
+    "tiny-scrollbar",
+    "simple-scrollbar",
+    "vanilla-js"
+  ],
+  "homepage": "https://github.com/airwave-development/simple-scrollbar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
